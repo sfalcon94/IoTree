@@ -1,2 +1,0 @@
-# IoTree
-Christmas tree notifications.
